@@ -46,7 +46,7 @@ Employee Record Management System project divided in two modules :
 
 6. Import ermsdb.sql file
 
-7.Run the script http://localhost/erms 
+7. Run the script http://localhost/erms 
 
 
 
